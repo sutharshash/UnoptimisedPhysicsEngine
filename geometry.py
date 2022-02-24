@@ -1,6 +1,8 @@
+# Organising the Imports
 import numpy
-Canvas = numpy.zeros((600, 600, 3), dtype=numpy.uint8)
-class Circle:
-    def Hollow_Circle(self):
+import main
 
-        return(Rendered_Hollow_Circle)
+class Sphere:
+    def Render_Sphere():
+        Array =
+        return Array

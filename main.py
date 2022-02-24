@@ -1,9 +1,7 @@
+# Organising the Imports
 import tkinter
-import numpy
-import scipy
 
 Window = tkinter.Tk()
+Window.title('UPS')
 Window.state('zoomed')
-Window.title("TPS")
-
 Window.mainloop()
